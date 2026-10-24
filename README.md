@@ -212,4 +212,4 @@ Image Resizer is available as a full free version with all features and updates 
 Ready to transform your images effortlessly? **Download Image Resizer now and experience the convenience today!**
 
 ---
-**Last updated:** 2026-10-23 21:49:03 UTC
+**Last updated:** 2026-10-24 00:13:04 UTC
